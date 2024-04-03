@@ -46,7 +46,7 @@ To set up backend codebase for development follow these steps:
 ```
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](screenshots/Screenshot from 2024-04-03 19-32-43.png)
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
