@@ -46,8 +46,8 @@ To set up backend codebase for development follow these steps:
 ```
 ## Screenshots
 
-![App Screenshot](screenshots/Screenshot from 2024-04-03 19-32-43.png)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![App Screenshot]([https://github.com/jojijose101/Mocazzo/blob/main/screenshots/Screenshot%20from%202024-04-03%2019-32-43.png])
+![App Screenshot]([https://github.com/jojijose101/Mocazzo/blob/main/screenshots/Screenshot%20from%202024-04-03%2019-34-08.png])
+![App Screenshot]([https://github.com/jojijose101/Mocazzo/blob/main/screenshots/Screenshot%20from%202024-04-03%2019-34-43.png])
 
